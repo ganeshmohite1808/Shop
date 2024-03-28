@@ -19,13 +19,13 @@ Update Product: Modify existing product details including price, quantity, or an
 
 **Usage**:
 
-Ensure that PostgreSQL is installed and running.
-Set up the database schema using the provided SQL scripts.
-Configure the database connection parameters (URL, username, password) in the JDBC connection class.
-Compile the Java source files using any Java compiler.
+Ensure that PostgreSQL is installed and running.<br>
+Set up the database schema using the provided SQL scripts.<br>
+Configure the database connection parameters (URL, username, password) in the JDBC connection class.<br>
+Compile the Java source files using any Java compiler.<br>
 Run the application using the main entry point class.
 
 **Dependencies**:
 
-Java Development Kit (JDK)
+Java Development Kit (JDK)<br>
 PostgreSQL database
